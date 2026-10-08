@@ -1,0 +1,51 @@
+Matchweek,MatchDate,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,FullTimeResult,Season,MatchKey
+1,2026-08-21,Arsenal,Coventry,3,0,H,2026/27,2026-27-1
+1,2026-08-21,Hull,Man United,2,0,H,2026/27,2026-27-2
+1,2026-08-21,Ipswich,Sunderland,2,1,H,2026/27,2026-27-3
+1,2026-08-21,Nott'm Forest,Leeds,0,1,A,2026/27,2026-27-4
+1,2026-08-21,Everton,Crystal Palace,2,0,H,2026/27,2026-27-5
+1,2026-08-21,Brentford,Tottenham,3,0,H,2026/27,2026-27-6
+1,2026-08-21,Man City,Bournemouth,2,1,H,2026/27,2026-27-7
+1,2026-08-21,Brighton,Aston Villa,4,0,H,2026/27,2026-27-8
+1,2026-08-21,Newcastle,Liverpool,2,2,D,2026/27,2026-27-9
+1,2026-08-21,Fulham,Chelsea,2,3,A,2026/27,2026-27-10
+2,2026-08-28,Crystal Palace,Man City,1,4,A,2026/27,2026-27-11
+2,2026-08-28,Liverpool,Nott'm Forest,2,2,D,2026/27,2026-27-12
+2,2026-08-28,Bournemouth,Everton,1,1,D,2026/27,2026-27-13
+2,2026-08-28,Coventry,Hull,0,1,A,2026/27,2026-27-14
+2,2026-08-28,Tottenham,Newcastle,0,2,A,2026/27,2026-27-15
+2,2026-08-28,Sunderland,Fulham,1,0,H,2026/27,2026-27-16
+2,2026-08-28,Chelsea,Brighton,4,3,H,2026/27,2026-27-17
+2,2026-08-28,Leeds,Brentford,1,1,D,2026/27,2026-27-18
+2,2026-08-28,Man United,Ipswich,5,2,H,2026/27,2026-27-19
+2,2026-08-28,Aston Villa,Arsenal,0,1,A,2026/27,2026-27-20
+3,2026-09-04,Ipswich,Liverpool,0,2,A,2026/27,2026-27-21
+3,2026-09-04,Newcastle,Bournemouth,2,2,D,2026/27,2026-27-22
+3,2026-09-04,Brentford,Sunderland,1,1,D,2026/27,2026-27-23
+3,2026-09-04,Brighton,Leeds,1,1,D,2026/27,2026-27-24
+3,2026-09-04,Fulham,Crystal Palace,2,3,A,2026/27,2026-27-25
+3,2026-09-04,Man City,Coventry,1,0,H,2026/27,2026-27-26
+3,2026-09-04,Nott'm Forest,Tottenham,0,0,D,2026/27,2026-27-27
+3,2026-09-04,Hull,Aston Villa,0,0,D,2026/27,2026-27-28
+3,2026-09-04,Everton,Man United,2,2,D,2026/27,2026-27-29
+3,2026-09-04,Arsenal,Chelsea,2,1,H,2026/27,2026-27-30
+4,2026-09-12,Bournemouth,Brentford,2,2,D,2026/27,2026-27-31
+4,2026-09-12,Aston Villa,Nott'm Forest,1,2,A,2026/27,2026-27-32
+4,2026-09-12,Chelsea,Hull,2,2,D,2026/27,2026-27-33
+4,2026-09-12,Crystal Palace,Ipswich,2,3,A,2026/27,2026-27-34
+4,2026-09-12,Liverpool,Fulham,0,0,D,2026/27,2026-27-35
+4,2026-09-12,Tottenham,Everton,0,0,D,2026/27,2026-27-36
+4,2026-09-12,Sunderland,Arsenal,0,2,A,2026/27,2026-27-37
+4,2026-09-12,Coventry,Brighton,0,5,A,2026/27,2026-27-38
+4,2026-09-12,Man United,Man City,0,1,A,2026/27,2026-27-39
+4,2026-09-12,Leeds,Newcastle,4,1,H,2026/27,2026-27-40
+5,2026-09-18,Brentford,Chelsea,3,0,H,2026/27,2026-27-41
+5,2026-09-18,Tottenham,Aston Villa,2,3,A,2026/27,2026-27-42
+5,2026-09-18,Everton,Ipswich,1,0,H,2026/27,2026-27-43
+5,2026-09-18,Brighton,Arsenal,3,0,H,2026/27,2026-27-44
+5,2026-09-18,Newcastle,Hull,2,1,H,2026/27,2026-27-45
+5,2026-09-18,Nott'm Forest,Coventry,0,1,A,2026/27,2026-27-46
+5,2026-09-18,Bournemouth,Liverpool,0,1,A,2026/27,2026-27-47
+5,2026-09-18,Leeds,Crystal Palace,0,0,D,2026/27,2026-27-48
+5,2026-09-18,Man City,Sunderland,5,3,H,2026/27,2026-27-49
+5,2026-09-18,Fulham,Man United,1,1,D,2026/27,2026-27-50

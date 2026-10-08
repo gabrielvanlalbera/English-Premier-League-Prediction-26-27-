@@ -1,0 +1,31 @@
+Feature,Importance
+num__Elo_Difference,0.022819499
+cat__AwayTeam_Liverpool,0.012444941
+cat__HomeTeam_Everton,0.011734659
+num__DayOfWeek,0.011622809
+cat__AwayTeam_Portsmouth,0.011483369
+num__Away_WinRate_Last5,0.0108610215
+cat__AwayTeam_Bolton,0.010461466
+cat__AwayTeam_Everton,0.010444668
+cat__HomeTeam_Fulham,0.010352277
+cat__HomeTeam_Arsenal,0.010300948
+num__Away_Elo,0.010239901
+cat__HomeTeam_West Brom,0.010086766
+cat__HomeTeam_Aston Villa,0.010064079
+cat__AwayTeam_Bournemouth,0.010062716
+num__Home_WinRate_Last5,0.0097611295
+cat__AwayTeam_Middlesbrough,0.009701116
+cat__AwayTeam_Arsenal,0.0096855825
+cat__HomeTeam_Newcastle,0.009628769
+num__Home_RestDays,0.009591773
+num__Home_Elo,0.009579226
+cat__AwayTeam_Sunderland,0.009578245
+num__GoalDiff_Difference,0.009574959
+cat__AwayTeam_Wigan,0.0095211975
+cat__AwayTeam_Newcastle,0.009502853
+cat__HomeTeam_Southampton,0.009479313
+cat__AwayTeam_Burnley,0.0094765285
+num__H2H_GoalDiff_Last5,0.009471651
+cat__HomeTeam_Bolton,0.0094642425
+cat__AwayTeam_Chelsea,0.00943681
+num__PPG_Difference,0.009431344
